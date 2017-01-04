@@ -1,10 +1,10 @@
 {
-  "name": "admin-lte",
+  "name": "Grabox-nodeJS",
   "version": "2.3.6",
-  "main": "dist/js/app.min.js",
+  "main": "admin/app.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/almasaeed2010/AdminLTE.git"
+    "url": "https://github.com/mukulm24/Grabox-nodeJS.git"
   },
   "license": "MIT",
   "devDependencies": {
